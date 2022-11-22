@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 |              | HackTheBox                                | TryHackMe                    | RootMe                         |
 |--------------|-------------------------------------------|------------------------------|--------------------------------|
 | Profile link | [HTB Profile](https://app.hackthebox.com/profile/371734) | [THM Profile](https://tryhackme.com/p/Frgk) | [RootMe Profile](https://www.root-me.org/blaNGk) |
+| | | Place : 45399th | Points : 410|
 
 
