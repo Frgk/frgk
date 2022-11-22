@@ -20,3 +20,14 @@ Here are some ideas to get you started:
 * :computer: I'm interesting in cybersecurity
 
 * :pencil2: In my free time, I practice on platforms such as : TryHackMe, Root-Me or HackTheBox
+
+* ##Scoreboard :##
+Updated on : 22/11/2022
+
+|              | HackTheBox                                | TryHackMe                    | RootMe                         |   |
+|--------------|-------------------------------------------|------------------------------|--------------------------------|---|
+| Profile link | https://app.hackthebox.com/profile/371734 | https://tryhackme.com/p/Frgk | https://www.root-me.org/blaNGk |   |
+|              |                                           |                              |                                |   |
+|              |                                           |                              |                                |   |
+
+
