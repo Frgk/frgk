@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-* :book: Actually student at ESIEE Paris
-
-* :computer: I'm interesting in cybersecurity
-
-* :pencil2: In my free time, I practice on platforms such as : TryHackMe, Root-Me or HackTheBox
-
-
 ### Scoreboard :
 * Updated on : 22/11/2022
 
